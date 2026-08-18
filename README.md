@@ -39,13 +39,13 @@
 
 <div align="center">
 
-  <!-- GitHub Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hizba-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hizba's GitHub Stats" />
+  <!-- Alternative Reliable Stats Card Endpoint -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hizba-cloud&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
-  <br>
+  <br><br>
 
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hizba-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hizba-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
   <br>
 
@@ -53,6 +53,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hizba-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
