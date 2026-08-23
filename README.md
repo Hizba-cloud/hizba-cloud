@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-Visit_Website-ff70a6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://candid-valkyrie-a38bd2.netlify.app/)
 ## 📝 My Blog Posts
 * [My First Blog Post: Stepping Into Open Source](posts/my-first-blog-post.md)
+* [Smashing Bugs & Building Aesthetics: My Formbricks Open-Source Journey](posts/formbricks-bug-smash-journey.md)
 </div>
 
 ---
