@@ -7,9 +7,11 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-Visit_Website-ff70a6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://candid-valkyrie-a38bd2.netlify.app/)
+
 ## 📝 My Blog Posts
 * [My First Blog Post: Stepping Into Open Source](posts/my-first-blog-post.md)
 * [Smashing Bugs & Building Aesthetics: My Formbricks Open-Source Journey](posts/formbricks-bug-smash-journey.md)
+
 </div>
 
 ---
@@ -37,19 +39,14 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-
-  <!-- Fixed GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hizba-cloud&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-  <br><br>
 
   <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hizba-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
-  <br>
+  <br><br>
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hizba-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
