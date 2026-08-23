@@ -41,8 +41,8 @@
 
 <div align="center">
 
-  <!-- Alternative Reliable Stats Card Endpoint -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hizba-cloud&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Fixed GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hizba-cloud&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
   <br><br>
 
@@ -55,7 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hizba-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 
 ---
 
