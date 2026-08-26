@@ -11,6 +11,7 @@
 ## 📝 My Blog Posts
 * [My First Blog Post: Stepping Into Open Source](posts/my-first-blog-post.md)
 * [Smashing Bugs & Building Aesthetics: My Formbricks Open-Source Journey](posts/formbricks-bug-smash-journey.md)
+* [cymbal-mart-shopping-agent](posts/cymbal-mart-shopping-agent)
 
 </div>
 
